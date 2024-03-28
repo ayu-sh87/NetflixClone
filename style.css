@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+padding: 0px;
+}
+.firstpage svg {
+    width: 10vw;
+}
+
+.firstpage button svg{
+    width: 16px;
+}
